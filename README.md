@@ -1,5 +1,7 @@
 # SENCE
 Repository for the System for Enhanced Navigation of Constrained Enviroments (SENCE) robotic platform featured in the ACRA 2022 article Design of a Novel Multi-gait Quadruped.
+Which can be found at the following page:
+https://researchprofiles.canberra.edu.au/en/publications/design-of-a-novel-multi-gait-quadruped
 
 This contains all required CAD and firmware files to build the hardware, simulate the system and run preprogrammed gaits. We hope other researchers find this system to be a valuable learning platform.
 
